@@ -157,7 +157,7 @@
             // 
             // HeaderPanel
             // 
-            this.HeaderPanel.BackColor = System.Drawing.SystemColors.Window;
+            this.HeaderPanel.BackColor = System.Drawing.SystemColors.InactiveBorder;
             this.HeaderPanel.Controls.Add(this.label2);
             this.HeaderPanel.Dock = System.Windows.Forms.DockStyle.Top;
             this.HeaderPanel.Location = new System.Drawing.Point(203, 30);
